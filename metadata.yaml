@@ -1,0 +1,27 @@
+_repo: Malta-en-de-Maltezer-Orde--13-De-Aarde-en-haar-Volken-1906_14181
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vuillier, Gaston
+    birthdate: 1846
+    gutenberg_agent_id: '5397'
+    url: http://www.gutenberg.org/2009/agents/5397
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2004-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14181'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knights of Malta -- History'
+- !lcsh 'Malta -- Description and travel'
+- !lcc 'DG'
+title: "Malta en de Maltezer Orde\r\nDe Aarde en haar Volken, 1906"
+url: http://www.gutenberg.org/ebooks/14181
