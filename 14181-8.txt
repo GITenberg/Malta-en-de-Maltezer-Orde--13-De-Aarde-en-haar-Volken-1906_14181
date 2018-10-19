@@ -3,15 +3,15 @@ The Project Gutenberg EBook of Malta en de Maltezer Orde, by Gaston Vuillier
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
+with this eBook or online at www.gutenberg.org/license
 
 
 Title: Malta en de Maltezer Orde
-       "De Aarde en haar volken," Jaargang 1906
 
 Author: Gaston Vuillier
 
 Release Date: November 27, 2004 [EBook #14181]
+[Last updated: November 2, 2014]
 
 Language: Dutch
 
@@ -22,7 +22,7 @@ Character set encoding: ISO-8859-1
 
 
 
-Produced by Jeroen Hellingman and the PG Distributed Proofreaders Team
+Jeroen Hellingman and the PG Distributed Proofreaders Team
 
 
 
@@ -184,7 +184,7 @@ de gouden leeuwenmuilen. De nieuwe stad is op zijn bevel gedoopt met
 den naam Stad van La Valette."
 
 Gouden en zilveren medailles, die een afbeelding der nieuwe stad
-droegen en liet opschrift: Melita renascens, d.i. "Het herboren Malta"
+droegen en het opschrift: Melita renascens, d.i. "Het herboren Malta"
 met het jaar en den datum der stichting, werden in grooten getale in
 de fondamenten geworpen. Na die plechtigheid ging men met ijver aan
 het werk. Allen namen er aan deel, rijken zoowel als armen, edelen
@@ -454,7 +454,7 @@ bereidwilligheid verloochende zich nooit een oogenblik. Altijd vond
 ik hem gereed, mij met zijn vrijen tijd ten dienste te wezen.
 
 "Als u wilt," zei hij op een dag tot mij, "zullen we van avond
-samen naar De Barraca gaan."--De Barraca?"--"U zult het wel zien. De
+samen naar De Barraca gaan."--"De Barraca?"--"U zult het wel zien. De
 Barraca is een zaak, waar men hier trotsch op is, en niemand, die in
 La Valette is geweest, mag vertrekken zonder de beroemde Barraca te
 hebben leeren kennen."
@@ -1854,7 +1854,7 @@ de reusachtige ruïnen van een phoenicischen tempel, tegenwoordig
 aangeduid met den naam Pietra della Venerazione. Opgravingen, die
 men vroeger in die ruïnen heeft gedaan, hebben beenderen van dieren
 aan het licht gebracht en een menschelijken schedel van ongewonen
-vorm. Een geleerde bibliothecaris van La Valette beeft bewezen, dat
+vorm. Een geleerde bibliothecaris van La Valette heeft bewezen, dat
 de tempel aan den phoenicischen Hercules was gewijd. Niet ver van
 dit heiligdom was er een andere tempel, aan Esculapius gewijd. Er
 zijn daar steenen van reusachtige afmetingen, die in hun behouwen
@@ -1911,9 +1911,9 @@ End of Project Gutenberg's Malta en de Maltezer Orde, by Gaston Vuillier
 
 ***** This file should be named 14181-8.txt or 14181-8.zip *****
 This and all associated files of various formats will be found in:
-        http://www.gutenberg.net/1/4/1/8/14181/
+        http://www.gutenberg.org/1/4/1/8/14181/
 
-Produced by Jeroen Hellingman and the PG Distributed Proofreaders Team
+Jeroen Hellingman and the PG Distributed Proofreaders Team
 
 Updated editions will replace the previous one--the old editions
 will be renamed.
@@ -1947,7 +1947,7 @@ distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
 Gutenberg"), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
-http://gutenberg.net/license).
+http://gutenberg.org/license).
 
 
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
@@ -2012,7 +2012,7 @@ copied or distributed:
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
+with this eBook or online at www.gutenberg.org/license
 
 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
 from the public domain (does not contain a notice indicating that it is
@@ -2047,7 +2047,7 @@ compressed, marked up, nonproprietary or proprietary form, including any
 word processing or hypertext form.  However, if you provide access to or
 distribute copies of a Project Gutenberg-tm work in a format other than
 "Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
 you must, at no additional cost, fee or expense to the user, provide a
 copy, a means of exporting a copy, or a means of obtaining a copy upon
 request, of the work in its original "Plain Vanilla ASCII" or other
@@ -2119,7 +2119,7 @@ Gutenberg-tm electronic work under this agreement, disclaim all
 liability to you for damages, costs and expenses, including legal
 fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
 LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
 TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
 LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
 INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
@@ -2141,7 +2141,7 @@ opportunities to fix the problem.
 1.F.4.  Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
 1.F.5.  Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
@@ -2172,7 +2172,7 @@ because of the efforts of hundreds of volunteers and donations from
 people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
+assistance they need, are critical to reaching Project Gutenberg-tm's
 goals and ensuring that the Project Gutenberg-tm collection will
 remain freely available for generations to come.  In 2001, the Project
 Gutenberg Literary Archive Foundation was created to provide a secure
@@ -2239,8 +2239,8 @@ outside the United States.  U.S. laws alone swamp our small staff.
 
 Please check the Project Gutenberg Web pages for current donation
 methods and addresses.  Donations are accepted in a number of other
-ways including including checks, online payments and credit card
-donations.  To donate, please visit: http://pglaf.org/donate
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
 
 
 Section 5.  General Information About Project Gutenberg-tm electronic
@@ -2260,7 +2260,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.net
+     http://www.gutenberg.org
 
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
